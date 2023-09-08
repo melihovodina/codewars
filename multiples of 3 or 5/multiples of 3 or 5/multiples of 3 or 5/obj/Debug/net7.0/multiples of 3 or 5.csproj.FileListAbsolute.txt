@@ -1,0 +1,15 @@
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\bin\Debug\net7.0\multiples of 3 or 5.exe
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\bin\Debug\net7.0\multiples of 3 or 5.deps.json
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\bin\Debug\net7.0\multiples of 3 or 5.runtimeconfig.json
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\bin\Debug\net7.0\multiples of 3 or 5.dll
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\bin\Debug\net7.0\multiples of 3 or 5.pdb
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.csproj.AssemblyReference.cache
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.AssemblyInfoInputs.cache
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.AssemblyInfo.cs
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.csproj.CoreCompileInputs.cache
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.dll
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\refint\multiples of 3 or 5.dll
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.pdb
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\multiples of 3 or 5.genruntimeconfig.cache
+C:\code\learning\github\codewars\multiples of 3 or 5\multiples of 3 or 5\multiples of 3 or 5\obj\Debug\net7.0\ref\multiples of 3 or 5.dll
